@@ -1,0 +1,3 @@
+IT001 Mai Thanh Hung 1 10 9 9
+KT002 Nguyen thi ngan nhi 0 8 9 
+IT004 Dat love ngan 1 8 8 9
